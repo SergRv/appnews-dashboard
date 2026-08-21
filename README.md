@@ -52,6 +52,10 @@
 | `6_traffic.png` | Трафик и платформы |
 | `7_retention.png` | Тепловая карта Retention |
 
+## 📦 Материалы
+- [Дашборд в PDF](./superset_dashboard_export.pdf)
+- [Живой дашборд](http://194.87.161.87:8088/superset/dashboard/p/xJ9qP1a3vyw/)
+
 ## 🖼 Скриншоты
 
 ### Общий вид дашборда
